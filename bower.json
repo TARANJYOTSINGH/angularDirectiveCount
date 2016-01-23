@@ -1,0 +1,22 @@
+{
+  "name": "inRhythm_count",
+  "authors": [
+    "TARANJYOTSINGH <tm05504n@pace.edu>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.4.9",
+    "angular-mock": "^1.4.9"
+  }
+}
